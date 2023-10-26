@@ -19,6 +19,7 @@ body{
     flex-direction: column;
     align-items: center;
     background-color: #F0F2F5;
+    justify-content: space-around;
 }
 .forms{
     background-color: #FFFFFF;
@@ -270,7 +271,7 @@ font-size: 14px;
     .facebookhead{
         margin-top: -15px;
         margin-left: 250px;
-        width: 60%;
+        width: 62%;
     }
     .forms{
         margin-right: 250px;
